@@ -26,5 +26,5 @@ if (is_dir($directory)) {
         echo "Nothing to migrate !";
     }
 } else {
-    echo "Directory $directory does not exist.";
+    echo "Directory $directory does not exists.";
 }
