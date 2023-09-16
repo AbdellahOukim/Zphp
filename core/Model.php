@@ -14,7 +14,7 @@ class Model
     protected static string $table;
     protected $fillable;
     protected Request $request;
-    protected PDO $db;
+    // protected PDO $db;
 
     public function __construct()
     {
