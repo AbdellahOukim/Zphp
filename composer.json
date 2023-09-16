@@ -1,5 +1,5 @@
 {
-    "name": "user/abdo",
+    "name": "oukim/zphp-mvc",
     "autoload": {
         "psr-4": {
             "app\\": "./"
