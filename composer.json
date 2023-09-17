@@ -1,5 +1,8 @@
 {
-    "name": "oukim/zphp-mvc",
+    "name": "oukim/zmvc",
+    "description": "This is a small php mvc framework build by abdellah oukim",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "app\\": "./"
